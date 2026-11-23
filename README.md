@@ -1,16 +1,22 @@
-## Hi there 👋
-
-<!--
-**shivasharmam2002-wq/shivasharmam2002-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 BTech Student | Aspiring Data Scientist
+I'm passionate about technology, programming and problem-solving.
+🚀 Currently Learning
+Python
+Data Structures & Algorithms
+HTML, CSS & JavaScript
+SQL
+Machine Learning
+💻 Tech Stack
+Python
+C++
+HTML
+CSS
+JavaScript
+🎯 My Goals
+Build real-world projects
+Improve problem-solving skills
+Explore Data Science and AI
+Contribute to open-source projects
+📫 Connect With Me
+Feel free to explore my repositories!
+Thanks for visiting my profile! ⭐
